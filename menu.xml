@@ -1,0 +1,26 @@
+<menu>
+    <menuitem label='Comparador'>
+        <icon>fa:not-equal fa-fw</icon>
+        <action>PublicacaoReport</action>
+    </menuitem>
+    <menuitem label='Emendas'>
+        <icon>fa:link fa-fw</icon>
+        <action>EmendaList</action>
+    </menuitem>
+    <menuitem label='Publicações'>
+        <icon>fa:book fa-fw</icon>
+        <action>PublicacaoList</action>
+    </menuitem>
+    <menuitem label='Categorias'>
+        <icon>fa:book-open fa-fw</icon>
+        <action>CategoriaFormList</action>
+    </menuitem>
+    <menuitem label='Locais'>
+        <icon>fa:map-marker-alt fa-fw</icon>
+        <action>LocalFormList</action>
+    </menuitem>
+    <menuitem label='Origens'>
+        <icon>fa:sitemap fa-fw</icon>
+        <action>OrigemFormList</action>
+    </menuitem>
+</menu>
